@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there, I'm Sajjad 👋
 
-<!--
-**sajjad-sah/sajjad-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python Backend Developer
 
-Here are some ideas to get you started:
+I'm at the beginning of my journey in software development, focusing on Python and Backend Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and building practical projects.
+
+🚀 Currently
+
+- 🌱 Learning Python programming
+- 💻 Exploring Backend Development
+- 🧠 Improving my problem-solving skills
+- 🎯 Working towards becoming a professional Backend Developer
+
+🛠️ Technologies & Tools
+
+- Python (Learning)
+- Git & GitHub
+- HTML & CSS (Basic)
+
+📚 Future Learning Goals
+
+- Object-Oriented Programming (OOP)
+- SQL & Databases
+- Django / FastAPI
+- REST APIs
+- Software Engineering
+
+🎯 My Goal
+
+To become a skilled Python Backend Developer, contribute to real-world projects, and build an international career in software engineering.
+
+---
+
+Every expert was once a beginner. This is where my journey begins. 🚀
